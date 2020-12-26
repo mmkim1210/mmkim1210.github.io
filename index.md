@@ -1,4 +1,4 @@
-{% include youtubePlayer.html id=page.PtvlmOsNV4E %}
+{% include youtubePlayer.html id="PtvlmOsNV4E" %}
 
 ![mini](./pics/mini.jpeg)
 
