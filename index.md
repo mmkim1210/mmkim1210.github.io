@@ -1,2 +1,3 @@
-![mini](./pics/IMG_0635.jpeg)
+![mini](./pics/mini.jpeg)
 
+![C4](./pics/C4-abstract.png)
