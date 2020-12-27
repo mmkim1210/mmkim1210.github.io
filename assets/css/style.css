@@ -26,7 +26,7 @@ h1 {
 header {
   width:270px;
   float:none;
-  position:fixed;
+  position:static;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -46,7 +46,7 @@ section {
 footer {
   width:270px;
   float:none;
-  position:fixed;
+  position:static;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
