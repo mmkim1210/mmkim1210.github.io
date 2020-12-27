@@ -7,8 +7,6 @@
   padding-bottom: 56.25%;
   padding-top: 25px;
   height: 0;
-  overflow: hidden;
-  max-width: 100%;
 }
 
 .embed-container iframe, .embed-container object, .embed-container embed {
