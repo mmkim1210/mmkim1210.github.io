@@ -21,7 +21,6 @@
 
 h1 {
   font-size:100px;
-  font-weight: 500;
 }
 
 header {
@@ -31,7 +30,7 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header li {
+.downloads li {
   width:89px;
   float:none;
   border-right:1px solid #e0e0e0;
