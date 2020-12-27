@@ -1,6 +1,4 @@
-{% include youtubePlayer.html id="PtvlmOsNV4E" %}
-
-<br>
+{% include youtubePlayer.html id="PtvlmOsNV4E" %}.
 
 ![mini](./pics/mini.jpeg)
 
@@ -12,9 +10,7 @@
 
 ![mini2](./pics/mini2.jpeg)
 
-{% include youtubePlayer.html id="HiNHL96nX_8" %}
-
-<br>
+{% include youtubePlayer.html id="HiNHL96nX_8" %}. 
 
 ![cali](./pics/cali.jpeg)
 
