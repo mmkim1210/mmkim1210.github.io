@@ -12,6 +12,7 @@
 
 {% include youtubePlayer.html id="HiNHL96nX_8" %}
 
+
 ![cali](./pics/cali.jpeg)
 
 ![scrub](./pics/scrub.jpeg)
@@ -20,15 +21,19 @@
 
 {% include youtubePlayer.html id="2R2ll9SRCeo" %}
 
+
 ![kobe](./pics/kobe.jpeg)
 
 {% include youtubePlayer.html id="5V2sduyz-dk" %}
 
+
 ![vegas](./pics/vegas.jpeg)
 
-{% include youtubePlayer.html id="qmMDS0QO2NU" %}
+{% include youtubePlayer.html id="1S8JYb7wppE" %}
+
 
 {% include youtubePlayer.html id="Xy3VvueX9ck" %}
+
 
 ![dad](./pics/dad.jpeg)
 
@@ -36,10 +41,17 @@
 
 ![dj](./pics/dj.jpeg)
 
-{% include youtubePlayer.html id="ESUHhXgIaos" %}
+{% include youtubePlayer.html id="L1Fclc2T9vQ" %}
+
 
 {% include youtubePlayer.html id="mmsasEoupO4" %}
 
+
 ![fleming](./pics/fleming.jpeg)
 
-{% include youtubePlayer.html id="OR2JQ0vwCDs" %}
+
+{% include youtubePlayer.html id="eVr0-6NRXwU" %}
+
+
+![garcon](./pics/garcon.jpg)
+comme des garcons 
