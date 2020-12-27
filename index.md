@@ -1,4 +1,4 @@
-{% include youtubePlayer.html id="PtvlmOsNV4E" %}
+{% include youtubePlayer.html id="PtvlmOsNV4E" %}<br>
 
 ![mini](./pics/mini.jpeg)
 
@@ -12,8 +12,7 @@
 
 ![mini2](./pics/mini2.jpeg)
 
-{% include youtubePlayer.html id="HiNHL96nX_8" %}
-
+{% include youtubePlayer.html id="HiNHL96nX_8" %}<br>
 
 ![cali](./pics/cali.jpeg)
 
@@ -21,21 +20,17 @@
 
 ![cous](./pics/cous.jpeg)
 
-{% include youtubePlayer.html id="2R2ll9SRCeo" %}
-
+{% include youtubePlayer.html id="2R2ll9SRCeo" %}<br>
 
 ![kobe](./pics/kobe.jpeg)
 
-{% include youtubePlayer.html id="5V2sduyz-dk" %}
-
+{% include youtubePlayer.html id="5V2sduyz-dk" %}<br>
 
 ![vegas](./pics/vegas.jpeg)
 
-{% include youtubePlayer.html id="1S8JYb7wppE" %}
+{% include youtubePlayer.html id="1S8JYb7wppE" %}<br>
 
-
-{% include youtubePlayer.html id="Xy3VvueX9ck" %}
-
+{% include youtubePlayer.html id="Xy3VvueX9ck" %}<br>
 
 ![dad](./pics/dad.jpeg)
 
@@ -43,17 +38,13 @@
 
 ![dj](./pics/dj.jpeg)
 
-{% include youtubePlayer.html id="L1Fclc2T9vQ" %}
+{% include youtubePlayer.html id="L1Fclc2T9vQ" %}<br>
 
-
-{% include youtubePlayer.html id="mmsasEoupO4" %}
-
+{% include youtubePlayer.html id="mmsasEoupO4" %}<br>
 
 ![fleming](./pics/fleming.jpeg)
 
+{% include youtubePlayer.html id="eVr0-6NRXwU" %}<br>
 
-{% include youtubePlayer.html id="eVr0-6NRXwU" %}
-
-
-![garcon](./pics/garcon.jpg)
+![garcon](./pics/garcon.jpg)<br>
 comme des garcons 
