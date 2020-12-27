@@ -4,6 +4,8 @@
 
 ![C4](./pics/C4-abstract.png)
 
+![poster](./pics/C4-poster.jpg)
+
 ![sawtelle](./pics/sawtelle.jpeg)
 
 ![baby](./pics/baby.jpeg)
