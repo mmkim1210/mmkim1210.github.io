@@ -29,7 +29,9 @@
 ![vegas](./pics/vegas.jpeg)
 <br>
 {% include youtubePlayer.html id="1S8JYb7wppE" %}
-
+<br>
+![high](./pics/high.jpeg)
+<br>
 {% include youtubePlayer.html id="Xy3VvueX9ck" %}
 <br>
 ![dad](./pics/dad.jpeg)
