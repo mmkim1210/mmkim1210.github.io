@@ -40,6 +40,8 @@
 
 {% include youtubePlayer.html id="L1Fclc2T9vQ" %}<br>
 
+![bp](./pics/bp.jpeg)
+
 {% include youtubePlayer.html id="mmsasEoupO4" %}<br>
 
 ![fleming](./pics/fleming.jpeg)
@@ -47,4 +49,4 @@
 {% include youtubePlayer.html id="eVr0-6NRXwU" %}<br>
 
 ![garcon](./pics/garcon.jpg)<br>
-comme des garcons 
+comme des garcon a la pipe
