@@ -40,7 +40,7 @@
 
 {% include youtubePlayer.html id="L1Fclc2T9vQ" %}<br>
 
-![bp](./pics/bp.jpeg)
+![bp](./pics/bp.jpg)
 
 {% include youtubePlayer.html id="mmsasEoupO4" %}<br>
 
