@@ -3,6 +3,7 @@
 ![mini](./pics/mini.jpeg)
 
 ![C4](./pics/C4-abstract.png)
+["old files just turned two, yeah it flew."](https://genius.com/18270757)
 
 ![poster](./pics/C4-poster.jpg)
 
@@ -35,7 +36,9 @@
 {% include youtubePlayer.html id="Xy3VvueX9ck" %}
 <br>
 ![dad](./pics/dad.jpeg)
-
+<br>
+{% include youtubePlayer.html id="BGpmIANN5Lg" %}
+<br>
 ![mini3](./pics/mini3.jpeg)
 <br>
 {% include youtubePlayer.html id="FRWXdPSoUT0" %}
