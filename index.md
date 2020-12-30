@@ -37,7 +37,9 @@
 ![dad](./pics/dad.jpeg)
 
 ![mini3](./pics/mini3.jpeg)
-
+<br>
+{% include youtubePlayer.html id="FRWXdPSoUT0" %}
+<br>
 ![dj](./pics/dj.jpeg)
 <br>
 {% include youtubePlayer.html id="L1Fclc2T9vQ" %}
@@ -45,6 +47,10 @@
 ![bp](./pics/bp.jpg)
 <br>
 {% include youtubePlayer.html id="mmsasEoupO4" %}
+<br>
+![BP](./pics/BP-TWAS.jpeg)
+<br>
+{% include youtubePlayer.html id="nkAcGnkIwPE" %}
 <br>
 ![fleming](./pics/fleming.jpeg)
 <br>
