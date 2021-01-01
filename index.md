@@ -3,7 +3,7 @@
 ![mini](./pics/mini.jpeg)
 
 ![C4](./pics/C4-abstract.png)
-["boys think it's new, it ain't new. old files just turned two, yeah it flew."](https://genius.com/Frank-ocean-dhl-lyrics)
+["old files just turned two, yeah it flew."](https://genius.com/Frank-ocean-dhl-lyrics)
 
 ![poster](./pics/C4-poster.jpg)
 
@@ -67,4 +67,4 @@ John Steinbeck on [Falling in Love: A 1958 Letter](https://www.theatlantic.com/e
 {% include youtubePlayer.html id="zt1rl1d3xF0" %}
 <br>
 ![garcon](./pics/garcon.jpg)<br>
-comme des garcon a la pipe
+comme des [garcon a la pipe](https://en.wikipedia.org/wiki/Gar%C3%A7on_%C3%A0_la_pipe)
