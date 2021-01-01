@@ -61,7 +61,7 @@
 <br>
 {% include youtubePlayer.html id="eVr0-6NRXwU" %}
 <br>
-![steinbeck](./pics/steinbeck.png)
+![steinbeck](./pics/steinbeck.png)<br>
 John Steinbeck on [Falling in Love: A 1958 Letter](https://www.theatlantic.com/entertainment/archive/2012/01/john-steinbeck-on-falling-in-love-a-1958-letter/251375/)
 <br>
 {% include youtubePlayer.html id="zt1rl1d3xF0" %}
