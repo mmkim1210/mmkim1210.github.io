@@ -3,14 +3,16 @@
 ![mini](./pics/mini.jpeg)
 
 ![C4](./pics/C4-abstract.png)
-["old files just turned two, yeah it flew."](https://genius.com/18270757)
+["boys think it's new, it ain't new. old files just turned two, yeah it flew."](https://genius.com/Frank-ocean-dhl-lyrics)
 
 ![poster](./pics/C4-poster.jpg)
 
 ![sawtelle](./pics/sawtelle.jpeg)
 
 ![baby](./pics/baby.jpeg)
-
+<br>
+{% include soundcloudPlayer.html id="784836013" %}
+<br>
 ![mini2](./pics/mini2.jpeg)
 <br>
 {% include youtubePlayer.html id="HiNHL96nX_8" %}
@@ -58,6 +60,11 @@
 ![fleming](./pics/fleming.jpeg)
 <br>
 {% include youtubePlayer.html id="eVr0-6NRXwU" %}
+<br>
+![steinbeck](./pics/steinbeck.png)
+John Steinbeck on [Falling in Love: A 1958 Letter](https://www.theatlantic.com/entertainment/archive/2012/01/john-steinbeck-on-falling-in-love-a-1958-letter/251375/)
+<br>
+{% include youtubePlayer.html id="zt1rl1d3xF0" %}
 <br>
 ![garcon](./pics/garcon.jpg)<br>
 comme des garcon a la pipe
