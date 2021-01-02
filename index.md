@@ -13,17 +13,25 @@
 <br>
 {% include soundcloudPlayer.html id="784836013" %}
 <br>
+{% include youtubePlayer.html id="TKFKcwGsXDc" %}
+<br>
+{% include soundcloudPlayer.html id="698908933" %}
+<br>
 ![mini2](./pics/mini2.jpeg)
 <br>
 {% include youtubePlayer.html id="HiNHL96nX_8" %}
 <br>
 ![cali](./pics/cali.jpeg)
-
+<br>
+{% include youtubePlayer.html id="vYwXMnC03I4" %}
+<br>
 ![scrub](./pics/scrub.jpeg)
-
-![cous](./pics/cous.jpeg)
 <br>
 {% include youtubePlayer.html id="2R2ll9SRCeo" %}
+<br>
+![cous](./pics/cous.jpeg)
+<br>
+{% include youtubePlayer.html id="EhAZtQT4qX8" %}
 <br>
 ![kobe](./pics/kobe.jpeg)
 <br>
