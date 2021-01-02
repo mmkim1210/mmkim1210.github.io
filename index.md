@@ -12,9 +12,10 @@
 ![baby](./pics/baby.jpeg)
 <br>
 {% include soundcloudPlayer.html id="784836013" %}
-<br>
+"What we had can't be the same now ..."
+
 {% include youtubePlayer.html id="TKFKcwGsXDc" %}
-<br>
+
 {% include soundcloudPlayer.html id="698908933" %}
 <br>
 ![mini2](./pics/mini2.jpeg)
