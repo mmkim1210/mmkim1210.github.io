@@ -18,6 +18,10 @@
 
 {% include youtubePlayer.html id="TKFKcwGsXDc" %}
 <br>
+{% include soundcloudPlayer.html id="266129639" %}
+
+{% include soundcloudPlayer.html id="268943589" %}
+<br>
 ![mini2](./pics/mini2.jpeg)
 <br>
 {% include youtubePlayer.html id="HiNHL96nX_8" %}
