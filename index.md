@@ -14,7 +14,7 @@
 {% include soundcloudPlayer.html id="698908933" %}
 
 {% include soundcloudPlayer.html id="784836013" %}
-"What we had can't be the same now ..."
+"what we had can't be the same now ..."
 
 {% include youtubePlayer.html id="TKFKcwGsXDc" %}
 <br>
@@ -22,6 +22,9 @@
 
 {% include soundcloudPlayer.html id="268943589" %}
 <br>
+{% include youtubePlayer.html id="r_ShGnfhXDw" %}
+"see both sides like [Chanel](https://community.v.daum.net/v/j6axHCIozq) ..."
+
 ![mini2](./pics/mini2.jpeg)
 <br>
 {% include youtubePlayer.html id="HiNHL96nX_8" %}
