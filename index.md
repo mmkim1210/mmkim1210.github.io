@@ -84,3 +84,7 @@ John Steinbeck on [Falling in Love: A 1958 Letter](https://www.theatlantic.com/e
 <br>
 ![garcon](./pics/garcon.jpg)<br>
 comme des [garcon a la pipe](https://en.wikipedia.org/wiki/Gar%C3%A7on_%C3%A0_la_pipe)
+
+{% include youtubePlayer.html id="UNghSuMBraw" %}
+sometimes you'll miss it, and the sound will make you cry
+and some nights you dance with tears in your eyes
