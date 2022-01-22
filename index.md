@@ -10,7 +10,9 @@
 ![poster](./pics/C4-poster.jpg)
 
 ![sawtelle](./pics/sawtelle.jpeg)
-
+<br>
+{% include youtubePlayer.html id="zrkIOqJ0-3I" %}
+<br>
 ![baby](./pics/baby.jpeg)
 <br>
 {% include soundcloudPlayer.html id="698908933" %}
