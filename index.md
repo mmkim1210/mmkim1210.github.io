@@ -2,6 +2,8 @@
 <br>
 ![mini](./pics/mini.jpeg)
 
+[![geneticsmakie](./pics/logo2.svg)](https://github.com/mmkim1210/GeneticsMakie.jl)
+
 ![C4](./pics/C4-abstract.png)
 ["old files just turned two, yeah it flew."](https://genius.com/Frank-ocean-dhl-lyrics)
 
