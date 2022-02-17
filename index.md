@@ -2,10 +2,7 @@
 <br>
 ![mini](./pics/mini.jpeg)
 
-[![geneticsmakie](./pics/logo2.svg)](https://github.com/mmkim1210/GeneticsMakie.jl)
-
-![C4](./pics/C4-abstract.png)
-["old files just turned two, yeah it flew."](https://genius.com/Frank-ocean-dhl-lyrics)
+[![C4](./pics/C4-abstract.png)](https://github.com/gandallab/C4A-network)
 
 ![poster](./pics/C4-poster.jpg)
 
@@ -18,7 +15,6 @@
 {% include soundcloudPlayer.html id="698908933" %}
 
 {% include soundcloudPlayer.html id="784836013" %}
-"what we had can't be the same now ..."
 
 {% include youtubePlayer.html id="TKFKcwGsXDc" %}
 <br>
@@ -69,13 +65,14 @@
 <br>
 {% include youtubePlayer.html id="L1Fclc2T9vQ" %}
 <br>
+[![geneticsmakie](./pics/logo2.svg)](https://github.com/mmkim1210/GeneticsMakie.jl)
+<!---
 ![bp](./pics/bp.jpg)
+![BP](./pics/BP-TWAS.jpeg)
+{% include youtubePlayer.html id="nkAcGnkIwPE" %}
+-->
 <br>
 {% include youtubePlayer.html id="mmsasEoupO4" %}
-<br>
-![BP](./pics/BP-TWAS.jpeg)
-<br>
-{% include youtubePlayer.html id="nkAcGnkIwPE" %}
 <br>
 ![fleming](./pics/fleming.jpeg)
 <br>
