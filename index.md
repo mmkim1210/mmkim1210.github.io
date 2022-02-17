@@ -66,11 +66,6 @@
 {% include youtubePlayer.html id="L1Fclc2T9vQ" %}
 <br>
 [![geneticsmakie](./pics/logo2.svg)](https://github.com/mmkim1210/GeneticsMakie.jl)
-<!---
-![bp](./pics/bp.jpg)
-![BP](./pics/BP-TWAS.jpeg)
-{% include youtubePlayer.html id="nkAcGnkIwPE" %}
--->
 <br>
 {% include youtubePlayer.html id="mmsasEoupO4" %}
 <br>
