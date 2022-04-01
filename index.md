@@ -4,8 +4,6 @@
 
 [![C4](./pics/C4-abstract.png)](https://github.com/gandallab/C4A-network)
 
-![poster](./pics/C4-poster.jpg)
-
 ![sawtelle](./pics/sawtelle.jpeg)
 <br>
 {% include youtubePlayer.html id="zrkIOqJ0-3I" %}
@@ -15,16 +13,7 @@
 {% include soundcloudPlayer.html id="698908933" %}
 
 {% include soundcloudPlayer.html id="784836013" %}
-
-{% include youtubePlayer.html id="TKFKcwGsXDc" %}
 <br>
-{% include soundcloudPlayer.html id="266129639" %}
-
-{% include soundcloudPlayer.html id="268943589" %}
-<br>
-{% include youtubePlayer.html id="r_ShGnfhXDw" %}
-"see both sides like [Chanel](https://community.v.daum.net/v/j6axHCIozq) ..."
-
 ![mini2](./pics/mini2.jpeg)
 <br>
 {% include youtubePlayer.html id="HiNHL96nX_8" %}
