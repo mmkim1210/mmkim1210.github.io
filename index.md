@@ -3,7 +3,9 @@
 ![mini](./pics/mini.jpeg)
 
 [![C4](./pics/C4-abstract.png)](https://github.com/gandallab/C4A-network)
-
+<br>
+{% include youtubePlayer.html id="Eb9O9XRK6yU" %}
+<br>
 ![sawtelle](./pics/sawtelle.jpeg)
 <br>
 {% include youtubePlayer.html id="zrkIOqJ0-3I" %}
