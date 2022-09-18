@@ -38,7 +38,7 @@
 <br>
 ![vegas](./pics/vegas.jpeg)
 <br>
-{% include youtubePlayer.html id="1S8JYb7wppE" %}
+{% include youtubePlayer.html id="Hb7QblCdmNM" %}
 <br>
 ![high](./pics/high.jpeg)
 <br>
